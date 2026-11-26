@@ -1,0 +1,16 @@
+{
+  "version": "0.3",
+  "game_id": "GH6EAF",
+  "revision": 0,
+  "active_conditions": [
+    {"index": 1, "operator": "eq", "value": 4},
+    {"index": 2, "operator": "eq", "value": 1},
+    {"index": 4, "operator": "eq", "value": 0},
+    {"index": 5, "operator": "ne", "value": 18}
+  ],
+  "home_state": 3,
+  "map_state": 5,
+  "clear_state": 10,
+  "failure_value": 18,
+  "note": "Provisional rule from supplied logs. Active means loaded mission state, not necessarily first controllable frame. Dolphin pause is not detected."
+}
